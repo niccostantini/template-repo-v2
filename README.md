@@ -16,8 +16,11 @@ To get started with this template, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/template-repo-v2.git
+    git clone https://github.com/niccostantini/template-repo-v2.git
     ```
+    Or clone it any other way you want.
+
+
 2. **Navigate to the project directory**:
     ```sh
     cd template-repo-v2
@@ -41,10 +44,6 @@ To get started with this template, follow these steps:
     ```sh
     npm test
     ```
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## License
 
